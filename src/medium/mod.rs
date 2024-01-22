@@ -16,4 +16,5 @@ pub mod m53_max_sub_array;
 pub mod m56_merge_intervals;
 pub mod m647_palindromic_substring;
 pub mod m918_maximum_sum_circular_subarray;
+pub mod m978_longest_turbulent_subarray;
 pub mod m98_is_valid_binary_tree;
