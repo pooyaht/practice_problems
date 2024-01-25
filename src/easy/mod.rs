@@ -5,6 +5,7 @@ pub mod e1_two_sum;
 pub mod e206_reverse_linked_list;
 pub mod e20_valid_parantheses;
 pub mod e217_contains_duplicate;
+pub mod e219_contains_duplicate_2;
 pub mod e21_merge_two_sorted_list;
 pub mod e226_invert_binary_tree;
 pub mod e242_is_anagram;
