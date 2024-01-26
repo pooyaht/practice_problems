@@ -6,6 +6,7 @@ pub mod m153_search_in_rotated_array;
 pub mod m15_three_sum;
 pub mod m19_nth_element_from_end;
 pub mod m200_number_of_islands;
+pub mod m209_minimum_size_subarray_sum;
 pub mod m238_product_of_array_except_self;
 pub mod m33_find_min_in_rotated_array;
 pub mod m347_top_k_frequent_elements;
