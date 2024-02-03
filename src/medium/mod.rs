@@ -4,6 +4,7 @@ pub mod m1343_subarrays_size_k_average_greater_than_threshold;
 pub mod m152_maximum_product_subarray;
 pub mod m153_search_in_rotated_array;
 pub mod m15_three_sum;
+pub mod m167_two_sum_ii_input_array_is_sorted;
 pub mod m19_nth_element_from_end;
 pub mod m200_number_of_islands;
 pub mod m209_minimum_size_subarray_sum;
