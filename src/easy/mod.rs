@@ -9,5 +9,6 @@ pub mod e219_contains_duplicate_2;
 pub mod e21_merge_two_sorted_list;
 pub mod e226_invert_binary_tree;
 pub mod e242_is_anagram;
+pub mod e26_remove_duplicates_from_sorted_array;
 pub mod e572_subtree_of_another_tree;
 pub mod e704_binary_search;
