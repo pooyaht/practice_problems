@@ -13,3 +13,4 @@ pub mod e26_remove_duplicates_from_sorted_array;
 pub mod e303_range_sum_query_immutable;
 pub mod e572_subtree_of_another_tree;
 pub mod e704_binary_search;
+pub mod e724_find_pivot_index;
