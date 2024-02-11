@@ -17,6 +17,7 @@ pub mod m424_longest_repeating_character_replacement;
 pub mod m435_non_overlapping_intervals;
 pub mod m49_group_anagrams;
 pub mod m53_max_sub_array;
+pub mod m560_subarray_sum_equals_k;
 pub mod m56_merge_intervals;
 pub mod m647_palindromic_substring;
 pub mod m80_remove_duplicates_from_sorted_array_ii;
