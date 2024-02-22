@@ -9,6 +9,7 @@ pub mod m19_nth_element_from_end;
 pub mod m200_number_of_islands;
 pub mod m208_implement_trie;
 pub mod m209_minimum_size_subarray_sum;
+pub mod m211_design_add_and_search_ds;
 pub mod m2130_maximum_twin_sum_of_Linked_list;
 pub mod m238_product_of_array_except_self;
 pub mod m287_find_the_duplicate_number;
