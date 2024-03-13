@@ -24,6 +24,7 @@ pub mod m53_max_sub_array;
 pub mod m560_subarray_sum_equals_k;
 pub mod m56_merge_intervals;
 pub mod m647_palindromic_substring;
+pub mod m684_redundant_connection;
 pub mod m80_remove_duplicates_from_sorted_array_ii;
 pub mod m918_maximum_sum_circular_subarray;
 pub mod m978_longest_turbulent_subarray;
