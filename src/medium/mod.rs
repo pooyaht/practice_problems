@@ -1,5 +1,6 @@
 pub mod m105_construct_binary_tree_from_preorder_inorder;
 pub mod m11_container_with_most_water;
+pub mod m128_longest_consecutive_sequence;
 pub mod m1343_subarrays_size_k_average_greater_than_threshold;
 pub mod m152_maximum_product_subarray;
 pub mod m153_search_in_rotated_array;
