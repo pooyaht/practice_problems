@@ -15,6 +15,7 @@ pub mod m2130_maximum_twin_sum_of_Linked_list;
 pub mod m238_product_of_array_except_self;
 pub mod m287_find_the_duplicate_number;
 pub mod m304_range_sum_query_2d_immutable;
+pub mod m307_range_query_some_mutable;
 pub mod m33_find_min_in_rotated_array;
 pub mod m347_top_k_frequent_elements;
 pub mod m3_longest_substring_without_repeating;
