@@ -97,7 +97,6 @@ pub struct NumArray {
 
 impl NumArray {
     pub fn new(nums: Vec<i32>) -> Self {
-        let st = SegmentTree::default();
         let st = SegmentTree::build(nums.as_slice(), 0, (nums.len() - 1) as i32);
         Self { segment_tree: st }
     }
