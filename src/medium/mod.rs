@@ -19,6 +19,7 @@ pub mod m307_range_query_some_mutable;
 pub mod m33_find_min_in_rotated_array;
 pub mod m347_top_k_frequent_elements;
 pub mod m3_longest_substring_without_repeating;
+pub mod m416_partition_equal_subset_sum;
 pub mod m424_longest_repeating_character_replacement;
 pub mod m435_non_overlapping_intervals;
 pub mod m49_group_anagrams;
