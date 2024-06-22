@@ -22,6 +22,7 @@ pub mod m3_longest_substring_without_repeating;
 pub mod m416_partition_equal_subset_sum;
 pub mod m424_longest_repeating_character_replacement;
 pub mod m435_non_overlapping_intervals;
+pub mod m474_ones_and_zeros;
 pub mod m49_group_anagrams;
 pub mod m53_max_sub_array;
 pub mod m560_subarray_sum_equals_k;
