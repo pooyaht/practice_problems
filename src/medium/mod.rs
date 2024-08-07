@@ -1,3 +1,4 @@
+pub mod m1049_last_stone_weight_2;
 pub mod m105_construct_binary_tree_from_preorder_inorder;
 pub mod m11_container_with_most_water;
 pub mod m128_longest_consecutive_sequence;
